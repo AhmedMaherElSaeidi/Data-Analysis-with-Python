@@ -10,4 +10,4 @@ I am excited to share that I have completed a comprehensive Data Analysis with P
 - Model Evaluation: Assessed model performance and refined models for better results.
 - Grid Search: Optimized model hyperparameters for improved predictive accuracy.
 
-The course included practical notebooks that covered various topics related to data analysis and prediction. One of the final projects was focused on predicting house prices based on different features. It provided a valuable hands-on experience in applying the learned techniques to a real-world scenario.
+The course included practical notebooks covering various data analysis topics on car price prediction. The final project was focused on predicting house prices based on different features. It provided valuable hands-on experience applying the learned techniques to a real-world scenario.
